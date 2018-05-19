@@ -1,0 +1,20 @@
+C:\Users\Amir\AppData\Local\Temporary Projects\TheGameServer\bin\Debug\TheGameServer.exe
+C:\Users\Amir\AppData\Local\Temporary Projects\TheGameServer\bin\Debug\TheGameServer.pdb
+C:\Users\Amir\AppData\Local\Temporary Projects\TheGameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\AppData\Local\Temporary Projects\TheGameServer\obj\x86\Debug\TheGameServer.exe
+C:\Users\Amir\AppData\Local\Temporary Projects\TheGameServer\obj\x86\Debug\TheGameServer.pdb
+C:\Users\Amir\documents\visual studio 2010\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.exe
+C:\Users\Amir\documents\visual studio 2010\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\bin\Debug\TheGameServer.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\bin\Debug\TheGameServer.pdb
+D:\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.exe
+D:\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.pdb
+D:\Projects\TheGameServer\TheGameServer\bin\Debug\TheGameServer.exe
+D:\Projects\TheGameServer\TheGameServer\bin\Debug\TheGameServer.pdb
+D:\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.csprojResolveAssemblyReference.cache
+D:\Applications\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.exe
+D:\Applications\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.pdb
+D:\Applications\Projects\TheGameServer\TheGameServer\bin\Debug\TheGameServer.exe
+D:\Applications\Projects\TheGameServer\TheGameServer\bin\Debug\TheGameServer.pdb
+D:\Applications\Projects\TheGameServer\TheGameServer\obj\x86\Debug\TheGameServer.csprojResolveAssemblyReference.cache

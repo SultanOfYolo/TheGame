@@ -1,0 +1,15 @@
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameClient\bin\Debug\TheGameClient.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameClient\bin\Debug\TheGameClient.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameClient\obj\x86\Debug\TheGameClient.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameClient\obj\x86\Debug\TheGameClient.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameClient\obj\x86\Debug\TheGameClient.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameClient\obj\x86\Debug\TheGameClient.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameClient\bin\Debug\TheGameClient.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameClient\bin\Debug\TheGameClient.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Applications\Projects\TheGameClient\obj\x86\Debug\TheGameClient.exe
+D:\Applications\Projects\TheGameClient\obj\x86\Debug\TheGameClient.pdb
+D:\Applications\Projects\TheGameClient\bin\Debug\TheGameClient.exe
+D:\Applications\Projects\TheGameClient\bin\Debug\TheGameClient.pdb
+D:\Applications\Projects\TheGameClient\obj\x86\Debug\TheGameClient.csprojResolveAssemblyReference.cache

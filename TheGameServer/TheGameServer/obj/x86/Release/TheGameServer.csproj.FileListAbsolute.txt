@@ -1,0 +1,5 @@
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\bin\Release\TheGameServer.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\bin\Release\TheGameServer.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\obj\x86\Release\TheGameServer.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\TheGameServer\TheGameServer\obj\x86\Release\TheGameServer.pdb

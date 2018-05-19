@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<Database>
+		<Host>Amir-PC\SQLEXPRESS</Host>
+		<DatabaseName>TheGame</DatabaseName>
+		<WindowsAuth>True</WindowsAuth>
+		<User>sa</User>
+		<Pass>blabla</Pass>
+	</Database>
+	
+	<TCP>
+		<Port>10</Port>
+	</TCP>
+	
+	<UDP>
+		<IP>127.0.0.1</IP>
+		<Port>100</Port>
+	</UDP>
+	
+	<Locator>
+		<IP>127.0.0.1</IP>
+		<Port>20</Port>
+	</Locator>
+	
+	<Agent>
+		<IP>127.0.0.1</IP>
+		<TCPPort>5100</TCPPort>
+		<UDPPort>7778</UDPPort>
+		<RemoteIp>127.0.0.1<RemoteIp>
+	</Agent>
+	
+	<Server>
+		<ID>1</ID>
+		<UserCount>2000</UserCount>
+	</Server>
+	
+	<Client>
+		<Version>1</Version>
+		<Filelist>4081868661</Filelist>
+	</Client>
+	
+	<Ping>
+		<Delay>15</Delay>
+		<Timeout>0</Timeout>
+	</Ping>
+	
+</Config>
